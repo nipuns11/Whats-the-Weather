@@ -1,9 +1,7 @@
 //
 //  ViewController.swift
 //  Whats the Weather
-//
-//  Created by nipun sharma on 2015-10-12.
-//  Copyright © 2015 nipun. All rights reserved.
+eserved.
 //
 
 import UIKit
